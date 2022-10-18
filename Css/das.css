@@ -1,0 +1,17 @@
+.jumbotron{
+  margin-left: 4rem;
+}
+.container{
+    margin-top: 50px;
+}
+p{
+    text-align: center;
+}
+
+body{
+     background: url('../images/blue.jpg');
+     background-size: cover;
+}
+.jumbotron{
+    background: none;
+}

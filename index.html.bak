@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+   <head>
+     <title> This is grace </title>
+	 <link rel="stylesheet" href="Css/das.css">
+      
+    </head>
+	<header>
+	
+	</header>
+	 
+
+	<button> send </button>
+	<button> Submit</button>
+	    
+	<img src= "images/monkey.jpg" alt= "Monkey" style= "width:200px;height:200px">
+	<body>
+	
+	   <h1 class="House">             Welcome          </h1>
+	   <h2>  subheading </h2>
+	   <p>    It can only be grace    </p>
+	   
+	   <p> <a href=https://www.marca.com/>Going </a>through every challenges of life make you whom you are.</p>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<footer>
+	
+	</footer>
+	
+	
+	
+	</body>
+
+
+
+
+</html>
